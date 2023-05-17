@@ -1,0 +1,66 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    height: 100%;
+  }
+  .wrapper {
+    position: relative;
+    min-height: 100%;
+  }
+  .content {
+    padding-bottom: 90px;
+  }
+  .footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    
+    background-color: #45a1ff;
+    color: #fff;
+  }
+  
+  footer {
+    font-size: large;
+    justify-content: center;
+    padding: 5px; 
+    background-color: #abc8e6;
+    color: #fff;
+  }
+  
+  .lesson {
+    text-align: justify;
+    margin: 3em;
+  }
+  
+  .lesson h1, h2, h3 {
+    text-align: center;
+    padding-bottom: 1em;
+  }
+  
+  .lesson img {
+    display: block;
+    padding: 1em;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .lesson p {
+    padding-bottom: 1em;
+    font-size: 1.3em;
+  }
+  
+  
+  
+  
+  
+  
